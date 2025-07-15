@@ -1,7 +1,7 @@
 # Hey, I'm Max 
 Co-founder of [WakeUp Labs](https://www.wakeuplabs.io) — an engineering company building applications, infrastructures, and protocols.
 
-With over 15 years of experience in business strategy, entrepreneurship, and planning, I have a knack for driving growth, cultivating partnerships, and expanding businesses globally. 
+With strong focus in business strategy, entrepreneurship, and planning, I have a knack for driving growth, cultivating partnerships, and expanding businesses globally. 
 
 
 ## About WakeUp Labs
