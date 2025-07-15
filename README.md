@@ -1,14 +1,14 @@
 # Hey, I'm Max 
-Co-founder of [WakeUp Labs](https://www.wakeuplabs.io) — an engineering company building applications, infrastructures, and protocols.
+Co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols.
 
-With strong focus in business strategy, entrepreneurship, and planning, I have a knack for driving growth, cultivating partnerships, and expanding businesses globally. 
+With strong focus on business strategy, and planning, I have a knack for driving growth, cultivating partnerships, and expanding businesses globally. 
 
 
 ## About WakeUp Labs
 
 WakeUp Labs is a software engineering company specializing in:
 
-- **Core infrastructure** for web3 and decentralized finance
+- **Core infrastructure** for fintech, web3 and decentralized systems
 - **End-to-end product development**, from strategy to implementation
 - **Tooling and protocols** that power scalable ecosystems
 - **Co-created products** with startups, DAOs, and corporations
