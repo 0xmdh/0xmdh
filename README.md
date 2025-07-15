@@ -2,7 +2,7 @@
 
 Co-founder of [WakeUp Labs](https://www.wakeuplabs.io) — an engineering company building applications, infrastructures, and protocols for decentralized ecosystems.
 
-With over 15 years of experience in business strategy, entrepreneurship, and product development, I'm passionate about combining technology and real-world assets to unlock liquid markets and frictionless financial experiences.
+With over 15 years of experience in business strategy, entrepreneurship, and planning, I have a knack for driving growth, cultivating partnerships, and expanding businesses globally. 
 
 ---
 
@@ -14,6 +14,7 @@ WakeUp Labs is a software engineering company specializing in:
 - **End-to-end product development**, from strategy to implementation
 - **Tooling and protocols** that power scalable ecosystems
 - **Co-created products** with startups, DAOs, and corporations
+- **Experiments** bringing ideas and curiosities to life through hands-on prototyping
 
 Beyond engineering, we contribute to governance, participate in research, and collaborate with DAOs, L2s, and protocol foundations to drive innovation and shape long-term strategy.
 
