@@ -23,7 +23,6 @@ Beyond engineering, we contribute to governance, participate in research, and co
 - Creating liquid markets in segments that are traditionally illiquid or fragmented
 - Fintech integrations and next-gen payment flows
 - Decentralized governance and ecosystem strategy
-- UX for instant, liquid markets
 
 ## Tech Stack
 
