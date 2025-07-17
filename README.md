@@ -46,7 +46,7 @@ I contribute to a wide range of projects—some as a builder, others through [Wa
 
 ## Things I'm exploring & Public Good Projects
 
-- **Privacy**Applied cryptography and zk tooling  
+- **Privacy** – Applied cryptography and zk tooling  
 - **Liquid Markets** – real-time liquidity for tokenized, low-liquidity assets 
 - **Governance tools** – onchain voting, snapshot automation, multi-chain support
 - **Automation bots** – analytics, arbitrage, ops  
