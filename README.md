@@ -43,7 +43,7 @@ I contribute to a wide range of projects—some as a builder, others through [Wa
 - **Bitcoin Layer 2s** – R&D around rollups, sidechains, and drivechains
 - **Coinbase** –  Creating cool stuff using Coinbase Developer Platform (CDP)
 
-## Things I'm exploring & Public Good Projects
+## Things I'm exploring
 
 - **Privacy** – Applied cryptography and zk tooling  
 - **Liquid Markets** – real-time liquidity for tokenized, low-liquidity assets 
