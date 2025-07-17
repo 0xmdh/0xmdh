@@ -27,6 +27,36 @@ We also contribute to governance, research, and collaborate with DAOs, L2s, and 
 - Decentralized governance and long-term ecosystem design  
 - Security, privacy, IA and research  
 
+## 🚀 Projects I contribute to
+
+I contribute to a wide range of projects—some as a builder, others through [WakeUp Labs](https://www.wakeuplabs.io), and many as experiments, collaborations, or public goods. WakeUp works with startups, DAOs, and corporations, often helping bring products to life from zero to one.
+
+- **Ethereum** – L2 infra, tokenization tooling, governance, and ecosystem strategy  
+- **Bitcoin** – exploring OP_CAT, STARKs, asset issuance, and Bitcoin-native zk infra  
+- **Optimism** – Retro Funding projects, dev tooling, OP Stack integrations  
+- **Arbitrum** – apps and infra with Orbit and Arbitrum One  
+- **zkSync** – governance interfaces and ZK-native tooling  
+- **Polygon** – liquidity UX, token integrations  
+- **Base** – early deployments, growth and infra strategies  
+- **Filecoin / IPFS** – decentralized storage integrations  
+- **Starknet / Cairo** – experimental zk use cases  
+- **Rootstock** – smart contracts, relay infra, explorer tools, DAO  
+- **Bitcoin Layer 2s** – R&D around rollups, sidechains, and drivechains
+- **Coinbase** –  Creating cool stuff using Coinbase Developer Platform (CDP)
+
+## Things I'm exploring & Public Good Projects
+
+- **Privacy**Applied cryptography and zk tooling  
+- **Liquid Markets** – real-time liquidity for tokenized, low-liquidity assets 
+- **Governance tools** – onchain voting, snapshot automation, multi-chain support
+- **Automation bots** – analytics, arbitrage, ops  
+- **DAO dashboards & multisig tooling**  
+- **Edge AI** – exploring AI implementation on hardware for real-world asset use cases  
+- **Energy management** – exploring revenue opportunities from unused energy in continuous-use infrastructures
+- **Cross-domain UX** – frictionless payments, swaps, and on/off ramps  
+- **M&A and Partnerships exploration** – looking at emerging infra, tooling, growth partners, and new markets
+
+  
 ## Tech Stack
 
 **Frontend:** NextJS, React Native, React, Vue.js, TypeScript, JavaScript  
