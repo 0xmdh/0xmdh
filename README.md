@@ -1,7 +1,7 @@
 # Hey, I'm Max 
-I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols. 
+I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols. I work at the intersection of company strategy, product execution, and business development, taking ideas from concept to implementation with a focus on long-term impact.
 
-I work at the intersection of company strategy, product execution, and business development—taking ideas from concept to implementation with a focus on long-term impact. My background spans software, business development, finance, and product strategy. I've helped scale teams, launch products, and support ecosystem growth. I'm naturally curious and often drawn to connecting ideas from very different areas—that’s usually where I find the most interesting things to build.
+My background is in software engineering, business development, finance, and product strategy. I’ve helped scale teams, launch products, and support ecosystem growth. I'm naturally curious and often drawn to connecting ideas from very different areas. That’s usually where I find the most interesting things to build.
 
 ## About WakeUp Labs
 
