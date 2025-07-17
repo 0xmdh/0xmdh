@@ -1,28 +1,35 @@
 # Hey, I'm Max 
 Co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols. With strong focus on business strategy, and planning, I have a knack for driving growth, cultivating partnerships, and expanding businesses globally. 
 
+Builder with a strong background in engineering, product design, and decentralized technologies. Founder of [WakeUp Labs](https://www.wakeuplabs.xyz), where we create digital infrastructure and tools in the blockchain ecosystem.
+
+I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols. I work at the intersection of product, strategy, going from idea to implementation with a focus on long-term impact.
+
+I have a background in software engineering, finance and product strategy, combined with experience scaling teams, shaping strategy, and contributing to  ecosystems.
+
 
 ## About WakeUp Labs
 
-WakeUp Labs is a software engineering company specializing in:
+WakeUp Labs is a software engineering company focused on:
 
-- **Core infrastructure** for fintech, web3 and decentralized systems
-- **End-to-end product development**, from strategy to implementation
-- **Tooling and protocols** that power scalable ecosystems
-- **Co-created products** with startups, DAOs, and corporations
-- **Experiments** bringing ideas and curiosities to life through hands-on prototyping
+- **Core infrastructure** for fintech, web3, and decentralized systems  
+- **End-to-end product development**: from strategy and prototyping to deployment  
+- **Tooling and protocols** that support scalable ecosystems  
+- **Co-created products** with startups, DAOs, and corporations  
+- **Hands-on experiments** that turn ideas into working code
 
-Beyond engineering, we contribute to governance, participate in research, and collaborate with DAOs, L2s, and protocol foundations to drive innovation and shape long-term strategy.
+We also contribute to governance, research, and collaborate with DAOs, L2s, and protocol foundations to shape long-term ecosystem strategy.
 
-🌐 [wakeuplabs.io](https://www.wakeuplabs.io)
+[wakeuplabs.io](https://www.wakeuplabs.io)
 
 
-## Interests
+## Current Interests
 
-- Finance, Real Estate, Agribusiness, Alternative Assets, Sports, Travel, Public Goods, Security
-- Creating liquid markets in segments that are traditionally illiquid or fragmented
-- Fintech integrations and next-gen payment flows
-- Decentralized governance and ecosystem strategy
+- Finance, real estate, agribusiness, public goods, and alternative assets  
+- Liquid markets in traditionally illiquid or fragmented sectors  
+- Fintech integrations and next-gen payment rails  
+- Decentralized governance and long-term ecosystem design  
+- Security, privacy, IA and research  
 
 ## Tech Stack
 
