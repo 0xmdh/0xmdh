@@ -61,7 +61,7 @@ I contribute to a wide range of projects—some as a builder, others through [Wa
 
 **Frontend:** NextJS, React Native, React, Vue.js, TypeScript, JavaScript  
 **Backend:** NodeJS, Golang, Rust, Elixir, Python, C++  
-**Databases:** PostgreSQL, MongoDB, Prisma, Drizzle, Supabase  
+**Databases:** PostgreSQL, MongoDB, Prisma, Supabase  
 **Web Frameworks:** Django, Flask  
 **Blockchain:** Solidity, zk-SNARKs, Circom, Cairo, EVMs, Tendermint, Substrate  
 **Data & Analytics:** BigQuery, Snowflake, Redshift, Airflow, dbt, Kafka, Spark  
