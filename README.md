@@ -29,23 +29,16 @@ We also contribute to governance, research, and collaborate with DAOs, L2s, and 
 
 ## Tech Stack
 
-- NextJS, React Native, React, JavaScript, Vue.js, TypeScript
-
-- NodeJS, Golang, Rust, Elixir, C++, Python
-- PostgreSQL, MongoDB, Prisma ORM, Drizzle ORM, SupaBase
-- Django, Flask
-
-- Solidity, zk-SNARKs, Circom, SnarkJS, PySNARK, Cairo
-- EVMs, Tendermint, Substrate
-
-- BigQuery, Snowflake, Amazon Redshift
-- Airflow, dbt, Kafka, Spark
-- Metabase, Tableau, Superset
-- S3, Delta Lake
-
-- Vercel, AWS, Ansible, Terraform
-
-- Auth0, Alchemy, Pinata, HardHat
+Frontend: NextJS, React Native, React, Vue.js, TypeScript, JavaScript
+Backend: NodeJS, Golang, Rust, Elixir, Python, C++
+Databases: PostgreSQL, MongoDB, Prisma, Drizzle, Supabase
+Web Frameworks: Django, Flask
+Blockchain: Solidity, zk-SNARKs, Circom, Cairo, EVMs, Tendermint, Substrate
+Data & Analytics: BigQuery, Snowflake, Redshift, Airflow, dbt, Kafka, Spark
+Visualization: Metabase, Tableau, Superset
+Cloud & Infra: AWS, Vercel, Ansible, Terraform, S3, Delta Lake
+Tools & APIs: Auth0, Alchemy, Pinata, HardHat, AI-assisted vibecoding
+AI & ML: TensorFlow, PyTorch, scikit-learn, Hugging Face, OpenAI API
 
 ## Connect with me
 
