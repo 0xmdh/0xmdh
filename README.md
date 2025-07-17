@@ -20,7 +20,7 @@ We also contribute to governance, research, and collaborate with DAOs, L2s, and 
 
 ## Current Interests
 
-- Finance, real estate, agribusiness, public goods, and alternative assets  
+- Decentralized Finance, real estate, agribusiness, public goods, and alternative assets  
 - Liquid markets in traditionally illiquid or fragmented sectors  
 - Fintech integrations and next-gen payment rails  
 - Decentralized governance and long-term ecosystem design  
