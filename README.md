@@ -24,7 +24,7 @@ We also contribute to governance, research, and collaborate with DAOs, L2s, and 
 - Liquid markets in traditionally illiquid or fragmented sectors  
 - Fintech integrations and next-gen payment rails  
 - Decentralized governance and long-term ecosystem design  
-- Security, privacy, IA and research  
+- Security, IA and research  
 
 ## 🚀 Projects I contribute to
 
@@ -45,7 +45,6 @@ I contribute to a wide range of projects—some as a builder, others through [Wa
 
 ## Things I'm exploring
 
-- **Privacy** – Applied cryptography and zk tooling  
 - **Liquid Markets** – real-time liquidity for tokenized, low-liquidity assets 
 - **Governance tools** – onchain voting, snapshot automation, multi-chain support
 - **Automation bots** – analytics, arbitrage, ops  
