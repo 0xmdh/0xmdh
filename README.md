@@ -1,7 +1,7 @@
 # Hey, I'm Max 
 I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols. I work at the intersection of company strategy, product execution, and business development, taking ideas from concept to implementation with a focus on long-term impact.
 
-My background is in software engineering, business development, finance, and product strategy. I’ve helped scale teams, launch products, and support ecosystem growth. I'm naturally curious and often drawn to connecting ideas from very different areas. That’s usually where I find the most interesting things to build.
+My background is in strategy, partnerships, business development, software and finance. I’ve helped scale teams, launch products, and support ecosystem growth. I'm naturally curious and often drawn to connecting ideas from very different areas. That’s usually where I find the most interesting things to build.
 
 ## About WakeUp Labs
 
@@ -20,21 +20,21 @@ We also contribute to governance, research, and collaborate with DAOs, L2s, and 
 
 ## Current Interests
 
-- Decentralized Finance, real estate, agribusiness, public goods, and alternative assets  
+- Decentralized Finance, real estate, RWA, public goods, and alternative assets  
 - Liquid markets in traditionally illiquid or fragmented sectors  
 - Fintech integrations and next-gen payment rails  
 - Decentralized governance and long-term ecosystem design  
-- Security, IA and research  
+- Security and IA   
 
 ## 🚀 Projects I contribute to
 
 I contribute to a wide range of projects—some as a builder, others through [WakeUp Labs](https://www.wakeuplabs.io), and many as experiments, collaborations, or public goods. WakeUp works with startups, DAOs, and corporations, often helping bring products to life from zero to one.
 
 - **Ethereum** – L2 infra, tokenization tooling, governance, and ecosystem strategy  
-- **Bitcoin** – exploring OP_CAT, STARKs, asset issuance, and Bitcoin-native zk infra  
-- **Optimism** – Retro Funding projects, dev tooling, OP Stack integrations  
+- **Bitcoin** – exploring OP_CAT, STARKs, asset issuance, and Bitcoin-native zk infra
 - **Arbitrum** – apps and infra with Orbit and Arbitrum One  
-- **zkSync** – governance interfaces and ZK-native tooling  
+- **Optimism** – dev tooling, OP Stack integrations  
+- **Aztec** – governance interfaces and ZK-native tooling  
 - **Polygon** – liquidity UX, token integrations  
 - **Base** – early deployments, growth and infra strategies  
 - **Filecoin / IPFS** – decentralized storage integrations  
