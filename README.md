@@ -4,9 +4,8 @@ I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io). I operate at the
 My focus is simple: turn emerging technology into scalable businesses.
 I work on GTM strategy, ecosystem growth, capital formation, project leadership and high-performance teams.
 
-
 ## WakeUp Labs
-WakeUp Labs is evolving into an AI-native product and infrastructure studio.
+WakeUp Labs is evolving into an AI-native product and infrastructure studio. We combine strategic thinking with hands-on execution.
 
 We help corporations, startups and funds design and deploy:
 - AI copilots and internal automation systems  
@@ -16,17 +15,12 @@ We help corporations, startups and funds design and deploy:
 - Blockchain-enabled products  
 - Automation layers for operations and growth  
 
-We combine strategic thinking with hands-on execution.
-
 ## Current Focus
 - AI-native company design  
 - Agent orchestration and workflow automation  
 - Corporate AI adoption  
-- Crypto x AI convergence  
-- Tokenization and RWA  
-- Governance automation  
+- Real-time liquidity for tokenized Real World Assets 
 - Energy and infrastructure models  
-
 
 ## What I Care About
 - Strategy before code  
@@ -34,7 +28,6 @@ We combine strategic thinking with hands-on execution.
 - Automation before hiring  
 - Systems over tasks  
 - Long-term ecosystem positioning  
-
 
 ## Connect with me
 
