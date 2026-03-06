@@ -1,8 +1,3 @@
-# Hey, I'm Max 
-I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io), an engineering company building applications, infrastructure, and protocols. I work at the intersection of company strategy, product execution, and business development, taking ideas from concept to implementation with a focus on long-term impact.
-
-My background is in strategy, partnerships, business development, software and finance. I’ve helped scale teams, launch products, and support ecosystem growth. I'm naturally curious and often drawn to connecting ideas from very different areas. That’s usually where I find the most interesting things to build.
-
 # Hey, I'm Max
 
 I'm the co-founder of [WakeUp Labs](https://www.wakeuplabs.io). I operate at the intersection of strategy, AI systems, product execution and partnerships.
@@ -31,29 +26,6 @@ We combine strategic thinking with hands-on execution.
 - Tokenization and RWA  
 - Governance automation  
 - Energy and infrastructure models  
-
-
-## Tech Stack
-### AI Systems
-OpenAI API, Claude, Grok, Hugging Face  
-LangChain, LlamaIndex  
-RAG pipelines, vector databases, agent orchestration  
-Fine-tuning, evaluation pipelines, prompt architecture  
-
-### Backend
-Python, Node.js, Golang, Rust  
-
-### Frontend
-Next.js, React, TypeScript  
-
-### Blockchain
-Solidity, zk systems, EVM infrastructure  
-
-### Data
-BigQuery, Snowflake, Airflow, dbt  
-
-### Cloud
-AWS, Vercel, Terraform  
 
 
 ## What I Care About
