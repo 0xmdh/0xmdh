@@ -5,27 +5,18 @@ My focus is simple: turn emerging technology into scalable businesses.
 I work on GTM strategy, ecosystem growth, capital formation, project leadership and high-performance teams.
 
 ## WakeUp Labs
-WakeUp Labs is evolving into an AI-native product and infrastructure studio. We combine strategic thinking with hands-on execution.
-
-We help corporations, startups and funds design and deploy:
-- AI copilots and internal automation systems  
-- Agent-based workflows  
-- Enterprise-grade AI integrations  
-- Tokenized financial infrastructure  
-- Blockchain-enabled products  
-- Automation layers for operations and growth  
-
+ At WakeUp Labs, we build and operate production-grade systems for critical financial workflow. Before the AI wave, we delivered high-stakes blockchain and financial infrastructure. Today, we apply that same reliability discipline to payments, treasury, and risk-sensitive automations.
+ 
 ## Current Focus
 - AI-native company design  
 - Agent orchestration and workflow automation  
-- Corporate AI adoption  
 - Real-time liquidity for tokenized Real World Assets 
 - Energy and infrastructure models  
 
 ## What I Care About
-- Strategy before code  
+- Strategy  
 - Distribution before perfection  
-- Automation before hiring  
+- Automation  
 - Systems over tasks  
 - Long-term ecosystem positioning  
 
